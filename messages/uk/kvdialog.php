@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Cancel' => '取消',
-    'Confirmation' => '确认提示',
-    'Information' => '信息提示',
-    'Ok' => '确定',
+    'Cancel' => 'Ні',
+    'Confirmation' => 'Підтвердження',
+    'Information' => 'Інформація',
+    'Ok' => 'Так',
 ];
